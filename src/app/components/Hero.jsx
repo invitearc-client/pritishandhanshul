@@ -6,7 +6,7 @@ export default function Hero() {
           The Wedding of
         </p>
         <h2 className="text-[#C78617] pinyon-script-regular text-center md:text-4xl text-[38px] lg:text-[60px] leading-tight mt-8">
-        Vardha
+          Hanshul
         </h2>
 
         <h2 className="text-[#C78617] pinyon-script-regular text-center text-[38px] sm:text-7xl lg:text-[60px] leading-tight">
@@ -14,7 +14,7 @@ export default function Hero() {
             &
           </span>
           <br />
-            Kunal 
+          Pritish
         </h2>
       </div>
 
@@ -35,45 +35,42 @@ export default function Hero() {
         <p className="cormorant-garamond text-[14px] italic leading-[1.75] text-[#5c5959]">
           With the blessings of
           <br />
-         <b>Late Shri Komal Prakash Munjal & Smt. Kavita Munjal</b>
+          <b>Shri S.C. Bajaj & Late Kanta Devi</b>
           <br />
-         <b>Mr. Gaurav Munjal & Mrs. Devika Munjal</b>
-         
+          request the pleasure of your gracious presence at the wedding of their
+          beloved Grand Daughter,
           <br />
-          request the pleasure of your gracious presence at the wedding of their beloved daughter,
-          <br />
-          
         </p>
 
         {/* Couple names */}
         <div className="mt-7 w-full">
-          <h1
-            className=" text-[43px] italic leading-[1.25] text-[#d99019] sm:text-[48px] pinyon-script-regular"
-            
-          >
-            Vardha
+          <h1 className=" text-[43px] italic text-[#d99019] sm:text-[48px] pinyon-script-regular">
+            Hanshul
+            <p className="cormorant-garamond text-[14px] italic leading-1 text-[#d99019]">
+              (Meenakshi Bajaj & Kuldeep Bajaj)
+            </p>
           </h1>
 
-          <p className="my-3 cormorant-garamond text-[21px] italic text-[#cf8b21]">
-           with
+          <p className="my-6 cormorant-garamond text-[21px] italic text-[#cf8b21]">
+            with
           </p>
 
-          <h2
-            className="text-[48px] italic leading-[1.1] text-[#d99019] sm:text-[54px] pinyon-script-regular"
-           
-          >
-           Kunal
+          <h2 className="text-[48px] italic leading-[1.1] text-[#d99019] sm:text-[54px] pinyon-script-regular">
+            Pritish
           </h2>
+          <p className="cormorant-garamond text-[14px] italic mt-.5 text-[#d99019]">
+              (Shruti Jain & Deepak Jain)
+            </p>
         </div>
 
         {/* Journey message */}
         <p className="mt-10 cormorant-garamond text-[14px] italic leading-relaxed text-[#5c5959]">
-          Beloved son of 
-          <br/>
-          <b>Mr. Ravi Mehrotra & Mrs. Nidhi Mehrotra</b>
-          <br/>
-          As they embark on a beautiful journey of love, companionship and togetherness.<br/>
-          Your presence and blessings will make this joyous occasion even more special .
+          
+          As they embark on a beautiful journey of love, companionship and
+          togetherness.
+          <br />
+          Your presence and blessings will make this joyous occasion even more
+          special .
         </p>
 
         {/* Bottom divider */}
@@ -84,10 +81,7 @@ export default function Hero() {
         </div>
 
         {/* Closing message */}
-        <p
-          className="mt-1 text-[24px] italic text-[#b96c68] pinyon-script-regular"
-   
-        >
+        <p className="mt-1 text-[24px] italic text-[#b96c68] pinyon-script-regular">
           with love &amp; blessings
         </p>
       </div>

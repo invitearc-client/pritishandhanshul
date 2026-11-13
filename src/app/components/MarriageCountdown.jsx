@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 
 export default function MarriageCountdown() {
-  const TARGET_DATE = new Date("2026-11-12").getTime();
+  const TARGET_DATE = new Date("2026-12-12").getTime();
   const [timeLeft, setTimeLeft] = useState({
     days: 14,
     hours: 12,
@@ -109,7 +109,7 @@ export default function MarriageCountdown() {
           </div>
         </div>
          <p className="pinyon-script-regular text-[24px] tracking-[2px] text-[#C78617] md:text-xl md:tracking-[4px] mt-6 text-center">
-          November 11 & 12, 2026
+          December 11 & 12, 2026
         </p>
       </div>
     </>

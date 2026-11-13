@@ -1,11 +1,10 @@
 "use client";
 
 export default function Venue() {
-  const mapUrl = "https://maps.app.goo.gl/mCnwBByUdnt1Jvwj6";
+  const mapUrl = "https://maps.app.goo.gl/pzbb54sErbLLgfc27";
 
   const embedUrl =
-    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4223.958602482445!2d76.87351687619095!3d30.639468190133112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390f95007875e801%3A0x79dcfdd2832b09!2sNoura!5e1!3m2!1sen!2sin!4v1792142168461!5m2!1sen!2sin%22%20width=%22600%22%20height=%22450%22%20style=%22border:0;%22%20allowfullscreen=%22%22%20loading=%22lazy%22%20referrerpolicy=%22strict-origin-when-cross-origin";
-
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4379.704221517255!2d75.65263917609285!3d26.85970776236552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396c4bb29828c253%3A0x4257d705247c4bd0!2sThe%20Palace%20By%20Park%20Jewels%20Hotels%20And%20Resorts!5e1!3m2!1sen!2sin!4v1794564656723!5m2!1sen!2sin"
   return (
     <div className="mt-30">
       <p className="text-[12px] md:text-2xl text-[#C78617] cormorant-garamond uppercase tracking-[4px] font-semibold text-center">
@@ -64,7 +63,7 @@ export default function Venue() {
             className="text-[39px] leading-tight text-[#f5d580] sm:text-[42px]"
             style={{ fontFamily: "'Pinyon Script', cursive" }}
           >
-            Vardha <br/>
+            Hanshul <br/>
  <span className="text-[29px]">&</span>
           </h1>
 
@@ -72,7 +71,7 @@ export default function Venue() {
             className="mt-1 text-[43px] leading-tight text-[#f5d580] sm:text-[46px]"
             style={{ fontFamily: "'Pinyon Script', cursive" }}
           >
-            Kunal 
+            Pritish 
           </h2>
         </div>
 <div className="my-3 flex w-full items-center justify-center gap-3">
@@ -88,8 +87,8 @@ export default function Venue() {
 
         {/* Credits */}
         {/* <div className="relative z-10 mt-6 cormorant-garamond text-[9px] font-semibold uppercase leading-[1.8] tracking-[3px] text-[#e1d9b7]">
-          <p>Made with love for Vardha  &</p>
-          <p>Kunal</p>
+          <p>Made with love for Hanshul  &</p>
+          <p>Pritish</p>
         </div> */}
 
         <p
@@ -99,8 +98,7 @@ export default function Venue() {
           With Love, Bleassings & Warm Regards,
         </p>
 <p className="mt-2 text-[13px] md:text-[16px] italic cormorant-garamond leading-[1.8] text-[#fff5d9]">
-  Vrinda Munjal <br/>
-          The Munjals · The Sachdevas · The Tanejas · The Dodas
+  RSVP names
         </p>
 
 <div className="my-3 flex w-full items-center justify-center gap-3">
@@ -145,7 +143,7 @@ export default function Venue() {
           </h2>
 
           <p className="cormorant-garamond mt-4 text-[14px] italic leading-[1.6] text-[#88796b]">
-            Kakrali, Bir Pir Machhalia, <br /> Punjab 140201
+            The Palace By Park Jewels <br /> Ajmer-Jaipur Expy, Narsinghpura, Jaipur, Narsinghpura, Rajasthan 302026
           </p>
 
           {/* Open in Maps Button */}

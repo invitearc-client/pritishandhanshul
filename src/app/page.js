@@ -60,7 +60,7 @@ export default function Home() {
   return (
     <>
      
-      <div className="bg-[#FDF7E9] px-5 pb-10">
+      <div className="bg-[#fcecc5] px-5 pb-10">
           <button
         onClick={(e) => {
           e.stopPropagation();
