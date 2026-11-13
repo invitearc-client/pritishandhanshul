@@ -95,10 +95,10 @@ export default function Venue() {
           className="mt-1 text-[16px] italic text-[#f3d17c] cormorant-garamond"
         
         >
-          With Love, Bleassings & Warm Regards,
+          With Love, Bleassings & Warm Regards From,
         </p>
 <p className="mt-2 text-[13px] md:text-[16px] italic cormorant-garamond leading-[1.8] text-[#fff5d9]">
-  RSVP names
+ Bajaj Family
         </p>
 
 <div className="my-3 flex w-full items-center justify-center gap-3">
