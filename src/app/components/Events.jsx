@@ -46,8 +46,8 @@ export default function Events() {
         <div className="absolute inset-0 bg-[url('/assets/event3.webp')] bg-cover bg-center bg-no-repeat"></div>
 
         {/* Content */}
-        <div className="relative z-10 flex flex-col md:mt-10">
-          <h2 className="text-white cormorant-garamond text-[20px] md:text-3xl lg:text-[36px] font-semibold md:px-0 px-6">
+        <div className="relative z-10 flex flex-col md:mt-10 mt-6">
+          <h2 className="text-white cormorant-garamond text-[26px] md:text-3xl lg:text-[36px] font-semibold md:px-0 px-6">
            Haldi & Mehandi Carnival
           </h2>
           <p className="text-white pinyon-script-regular text-[16px] md:text-base">
@@ -57,15 +57,10 @@ export default function Events() {
            
             1:00 pm onwards
           </p>
-          <h2 className="text-white cormorant-garamond text-[20px] md:text-2xl lg:text-[22px] font-semibold md:px-0 px-6  mt-1">
-            Sufiana Shaam
-          </h2>
-            <p className="text-white pinyon-script-regular text-[16px] md:text-base">
-            (An evening of sufi soul and royal charm)
-          </p>
+          
           <p className="text-white cormorant-garamond text-[16px] md:text-base">
            
-            8:00 pm onwards  <br /> 11th December 2026
+             11th December 2026
           </p>
 
           {/* <p className="text-white cormorant-garamond text-sm md:text-base mt-2">
@@ -75,6 +70,39 @@ export default function Events() {
           </p> */}
         </div>
       </div>
+
+
+ <div className="relative flex flex-col text-center overflow-hidden rounded-2xl min-h-[520px] md:min-h-[600px] px-14 py-3 md:px-25 md:mt-20 mt-8">
+        <div className="absolute inset-0 bg-[url('/assets/sufiyana.webp')] bg-cover bg-center bg-no-repeat"></div>
+
+        {/* Content */}
+        <div className="relative z-10 flex flex-col md:mt-10 mt-4">
+         
+          <h2 className="text-white cormorant-garamond text-[27px] md:text-2xl lg:text-[22px] font-semibold md:px-0 px-6  mt-1">
+            Sufiana Shaam
+          </h2>
+            <p className="text-white pinyon-script-regular text-[16px] md:text-base">
+            (An evening of sufi soul and royal charm)
+          </p>
+          <p className="text-white cormorant-garamond text-[16px] md:text-base">
+           
+            7:30 pm onwards  <br /> 11th December 2026
+          </p>
+
+          {/* <p className="text-white cormorant-garamond text-sm md:text-base mt-2">
+            <span className="text-[15px] md:text-base lg:text-xl font-cormorant-garamond font-semibold">
+              Pool Side, Noura Resorts
+            </span>
+          </p> */}
+        </div>
+      </div>
+
+
+
+
+
+
+
 
       <div className="relative flex flex-col text-center overflow-hidden rounded-2xl min-h-[520px] md:min-h-[600px] px-10 py-3 md:px-25 md:mt-20 mt-8">
         <div className="absolute inset-0 bg-[url('/assets/event2.webp')] bg-cover bg-center bg-no-repeat"></div>

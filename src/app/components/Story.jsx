@@ -23,8 +23,8 @@ export default function Story() {
         The Beginnig of us❤️
       </p>
 
-      <p className="mt-2 cormorant-garamond text-[10px]  uppercase tracking-[4px]  text-[#5c5959]  text-center">
-        ✦ Swipe to flip ✦
+      <p className="mt-2 cormorant-garamond text-[12px]  font-bold uppercase tracking-[1px]  text-[#5c5959]  text-center">
+        ✦ Click To Change Photos ✦
       </p>
 
 
