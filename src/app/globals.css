@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@300;400;500;600;700&display=swap');
 
 @import "tailwindcss";
 
@@ -34,7 +35,9 @@ body {
 .cormorant-garamond{
   font-family: "Cormorant Garamond", serif;}
 
-
+.cormorant-upright-regular {
+  font-family: "Cormorant Upright", serif;
+}
 
   
 .floating-petal {

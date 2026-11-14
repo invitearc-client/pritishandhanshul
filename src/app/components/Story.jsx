@@ -10,7 +10,7 @@ export default function Story() {
       <p className="text-[12px] md:text-2xl text-[#C78617] cormorant-garamond uppercase tracking-[4px] font-semibold">
         A Glimpse of Our Journey
       </p>
-      <h2 className="text-[#C78617] pinyon-script-regular text-center md:text-4xl text-[38px] lg:text-[60px] leading-tight mt-2">
+      <h2 className="text-[#C78617] cormorant-upright-regular text-center md:text-4xl text-[38px] lg:text-[60px] leading-tight mt-2">
         Our Story
       </h2>
 

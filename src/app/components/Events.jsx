@@ -6,7 +6,7 @@ export default function Events() {
       <p className="text-[12px] md:text-2xl text-[#C78617] cormorant-garamond uppercase tracking-[4px] font-semibold">
         The Celebrations Unfold
       </p>
-      <h2 className="text-[#C78617] pinyon-script-regular text-center md:text-4xl text-[38px] lg:text-[60px] leading-tight mt-2">
+      <h2 className="text-[#C78617] cormorant-upright-regular text-center md:text-4xl text-[38px] lg:text-[60px] leading-tight mt-2">
         Sacred Ceremonies
       </h2>
       <div className="my-6 flex w-full items-center justify-center gap-4">
@@ -23,7 +23,7 @@ export default function Events() {
           <h2 className="text-white cormorant-garamond text-[28px] md:text-3xl lg:text-[46px] font-semibold md:px-0 px-6">
             Midnight Bloom
           </h2>
-          <p className="text-white pinyon-script-regular text-[16px] md:text-base">
+          <p className="text-white cormorant-upright-regular text-[16px] md:text-base">
             (An Evening of Love in Full Bloom)
           </p>
           <h2 className="text-white cormorant-garamond text-[16px] md:text-2xl lg:text-[22px] font-semibold md:px-0 px-6">
@@ -50,7 +50,7 @@ export default function Events() {
           <h2 className="text-white cormorant-garamond text-[26px] md:text-3xl lg:text-[36px] font-semibold md:px-0 px-6">
            Haldi & Mehandi Carnival
           </h2>
-          <p className="text-white pinyon-script-regular text-[16px] md:text-base">
+          <p className="text-white cormorant-upright-regular text-[16px] md:text-base">
             (Bubbles, Beats & Poolside Bliss)
           </p>
           <p className="text-white cormorant-garamond text-[16px] md:text-base">
@@ -81,7 +81,7 @@ export default function Events() {
           <h2 className="text-white cormorant-garamond text-[27px] md:text-2xl lg:text-[22px] font-semibold md:px-0 px-6  mt-1">
             Sufiana Shaam
           </h2>
-            <p className="text-white pinyon-script-regular text-[16px] md:text-base">
+            <p className="text-white cormorant-upright-regular text-[16px] md:text-base">
             (An evening of sufi soul and royal charm)
           </p>
           <p className="text-white cormorant-garamond text-[16px] md:text-base">
@@ -112,7 +112,7 @@ export default function Events() {
           <h2 className="text-white cormorant-garamond text-[27px] md:text-3xl lg:text-[40px] font-semibold md:px-0 px-6">
             The Royal Wedding
           </h2>
-          <p className="text-white pinyon-script-regular text-[16px] md:text-base">
+          <p className="text-white cormorant-upright-regular text-[16px] md:text-base">
             (A celebration in Royal hues)
           </p>
           {/* <h2 className="text-white cormorant-garamond text-[16px] md:text-2xl lg:text-[22px] font-semibold md:px-0 px-6">

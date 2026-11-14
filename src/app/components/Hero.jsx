@@ -5,11 +5,11 @@ export default function Hero() {
         <p className="text-[12px] md:text-2xl text-[#C78617] cormorant-garamond uppercase tracking-[4px] font-semibold">
           The Wedding of
         </p>
-        <h2 className="text-[#C78617] pinyon-script-regular text-center md:text-4xl text-[38px] lg:text-[60px] leading-tight mt-8">
+        <h2 className="text-[#C78617] cormorant-upright-regular text-center md:text-4xl text-[38px] lg:text-[60px] leading-tight mt-8">
           Hanshul
         </h2>
 
-        <h2 className="text-[#C78617] pinyon-script-regular text-center text-[38px] sm:text-7xl lg:text-[60px] leading-tight">
+        <h2 className="text-[#C78617] cormorant-upright-regular text-center text-[38px] sm:text-7xl lg:text-[60px] leading-tight">
           <span className="text-[#C78617] cormorant-garamond text-center md:text-3xl text-[28px] lg:text-[36px] leading-tight font-medium">
             &
           </span>
@@ -44,7 +44,7 @@ export default function Hero() {
 
         {/* Couple names */}
         <div className="mt-7 w-full">
-          <h1 className=" text-[43px] italic text-[#d99019] sm:text-[48px] pinyon-script-regular">
+          <h1 className=" text-[43px] italic text-[#d99019] sm:text-[48px] cormorant-upright-regular">
             Hanshul
             <p className="cormorant-garamond text-[14px] italic leading-1 text-[#d99019]">
               (Meenakshi Bajaj & Kuldeep Bajaj)
@@ -55,7 +55,7 @@ export default function Hero() {
             with
           </p>
 
-          <h2 className="text-[48px] italic leading-[1.1] text-[#d99019] sm:text-[54px] pinyon-script-regular">
+          <h2 className="text-[48px] italic leading-[1.1] text-[#d99019] sm:text-[54px] cormorant-upright-regular">
             Pritish
           </h2>
           <p className="cormorant-garamond text-[14px] italic mt-.5 text-[#d99019]">
@@ -81,7 +81,7 @@ export default function Hero() {
         </div>
 
         {/* Closing message */}
-        <p className="mt-1 text-[24px] italic text-[#b96c68] pinyon-script-regular">
+        <p className="mt-1 text-[24px] italic text-[#b96c68] cormorant-upright-regular">
           with love &amp; blessings
         </p>
       </div>

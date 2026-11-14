@@ -57,7 +57,7 @@ export default function MarriageCountdown() {
         <p className="cormorant-garamond mb-4 text-[12px] uppercase tracking-[4px] font-semibold text-[#C78617] md:text-2xl  text-center">
           Counting Down
         </p>
-        <h2 className="text-[#C78617] pinyon-script-regular text-center md:text-4xl text-[30px] lg:text-[60px] leading-tight mt-2">
+        <h2 className="text-[#C78617] cormorant-upright-regular text-center md:text-4xl text-[30px] lg:text-[60px] leading-tight mt-2">
           A Lifetime of Togetherness
         </h2>
 
@@ -108,7 +108,7 @@ export default function MarriageCountdown() {
             </h2>
           </div>
         </div>
-         <p className="pinyon-script-regular text-[24px] tracking-[2px] text-[#C78617] md:text-xl md:tracking-[4px] mt-6 text-center">
+         <p className="cormorant-upright-regular text-[24px] tracking-[2px] text-[#C78617] md:text-xl md:tracking-[4px] mt-6 text-center">
           December 11 & 12, 2026
         </p>
       </div>

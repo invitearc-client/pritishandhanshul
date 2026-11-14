@@ -299,7 +299,7 @@ export default function ScratchText({ onReveal }) {
     >
       {/* Hidden Text */}
       <div
-        className="absolute inset-0 flex flex-col items-center justify-center rounded-[12px] border border-[#E8D2A0] bg-white pinyon-script-regular px-3 text-center"
+        className="absolute inset-0 flex flex-col items-center justify-center rounded-[12px] border border-[#E8D2A0] bg-white cormorant-upright-regular px-3 text-center"
         style={{
           color: "#C78617",
           textShadow: "0 1px 6px rgba(255,215,0,0.35)",

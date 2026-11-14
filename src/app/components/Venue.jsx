@@ -10,7 +10,7 @@ export default function Venue() {
       <p className="text-[12px] md:text-2xl text-[#C78617] cormorant-garamond uppercase tracking-[4px] font-semibold text-center">
         Find Us Here
       </p>
-      <h2 className="text-[#C78617] pinyon-script-regular text-center md:text-4xl text-[38px] lg:text-[60px] leading-tight mt-2">
+      <h2 className="text-[#C78617] cormorant-upright-regular text-center md:text-4xl text-[38px] lg:text-[60px] leading-tight mt-2">
         The Venue
       </h2>
       <div className="my-6 flex w-full items-center justify-center gap-4">
@@ -138,7 +138,7 @@ export default function Venue() {
 
         {/* Venue Details */}
         <div className="flex flex-col items-center px-5 pb-6 pt-6 text-center">
-          <h2 className="text-[27px] leading-tight text-[#d99a2b] pinyon-script-regular">
+          <h2 className="text-[27px] leading-tight text-[#d99a2b] cormorant-upright-regular">
             Celebrations
           </h2>
 
